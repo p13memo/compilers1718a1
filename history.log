@@ -1,0 +1,12 @@
+give some input>23:45
+token: TIME_TOKEN string: 23:45
+give some input>7.22
+token: TIME_TOKEN string: 7.22
+give some input>09:08
+token: TIME_TOKEN string: 09:08
+give some input>17:4
+ERROR_TOKEN: time in invalid form.
+give some input>25:12
+ERROR_TOKEN: time in invalid form.
+give some input>9:66
+ERROR_TOKEN: time in invalid form.
